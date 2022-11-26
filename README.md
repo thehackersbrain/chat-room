@@ -4,6 +4,7 @@
 
 ## Screenshots
 
+![Screenshot](https://raw.githubusercontent.com/thehackersbrain/chat-room/main/screenshots/chat-room.png)
 
 ## Installation
 
@@ -15,4 +16,4 @@ git clone https://github.com/thehackersbrain/chat-room.git && cd chat-room && pi
 
 ## Credits
 
-- Created by **(Gaurav Raj)[https://gauravraj.xyz/]**
+- Created by (**Gaurav Raj**)[https://gauravraj.xyz/]

@@ -60,7 +60,7 @@ def connection(sckt, bytesize, encoder):
 
         conn.send(
             "[u][cyan]Hey [bold][green]{}[/][/], Welcome to the Chat Room![/][/]".format(
-                name
+                name.capitalize()
             ).encode(
                 encoder
             )
